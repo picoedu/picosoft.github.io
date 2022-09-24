@@ -1,8 +1,6 @@
 ---
 title: {{ title }}
 date: {{ date }}
-categories: 
-tags:
-comments：true
-disableNunjucks: true
+categories: {{ categories }}
+tags: {{ tags }}
 ---
